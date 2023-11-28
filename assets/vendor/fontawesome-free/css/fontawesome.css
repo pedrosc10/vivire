@@ -1896,7 +1896,7 @@ readers do not read off random characters that represent icons */
   content: "\f21e"; }
 
 .fa-heartbeat::before {
-  content: "\f21e"; }
+  content: "\f808"; }
 
 .fa-people-carry-box::before {
   content: "\f4ce"; }
